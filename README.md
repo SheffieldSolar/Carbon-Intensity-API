@@ -1,5 +1,7 @@
 # Carbon-Intensity-API
-A Python library to interface with the Official Carbon Intensity API for Great Britain developed by National Grid ESO. See carbonintensity.org.uk.
+
+A Python library to interface with the Official Carbon Intensity API for Great Britain developed by National Grid ESO. See [carbonintensity.org.uk](carbonintensity.org.uk).
+
 ## What is this repository for? ##
 
 * A Python interface for the GB Carbon Intensity web API from National Grid ESO.
