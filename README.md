@@ -5,7 +5,7 @@ A Python library to interface with the Official Carbon Intensity API for Great B
 ## What is this repository for? ##
 
 * A Python interface for the GB Carbon Intensity web API from National Grid ESO.
-* Version 0.3
+* Version 0.1
 * Developed and tested in Python 3.7, should work with Python 3.6+
 
 ## How do I get set up? ##
