@@ -27,7 +27,7 @@ def main():
     api = CarbonIntensityAPI()
     print("National between 2020-04-01 00:00 and 2020-04-17 14:00: ")
     carbon_data, _ = api.between(datetime(2020, 4, 1, 0, 30, tzinfo=pytz.utc),
-                              datetime(2020, 4, 17, 14, 00, tzinfo=pytz.utc))
+                                 datetime(2020, 4, 17, 14, 00, tzinfo=pytz.utc))
     print(carbon_data)
     print("Regional between 2020-04-01 00:00 and 2020-04-17 14:00: ")
     carbon_data, gen_mix_data = api.between(datetime(2020, 4, 1, 0, 30, tzinfo=pytz.utc),
